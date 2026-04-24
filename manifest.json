@@ -1,0 +1,10 @@
+{
+  "name": "TeleportWithYourItems",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/PixelIndieDev/TeleportWithYourItems",
+  "description": "A simple mod that allows you to keep your items when being teleported",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305",
+    "AinaVT-LethalConfig-1.4.6"
+  ]
+}
