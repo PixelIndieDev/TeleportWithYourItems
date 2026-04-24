@@ -1,7 +1,7 @@
 # Teleport With Your Items
 A simple mod that allows you to keep your items when being teleported. Any equipment or scrap that you might have collected won't drop when getting teleported by the normal teleporter or the inverse teleporter.
 
-![Gif of a player getting teleported to the facility while keeping its items]()
+![Gif of a player getting teleported to the facility while keeping its items](https://github.com/PixelIndieDev/TeleportWithYourItems/blob/main/Docs/teleprintingIntoCave.gif?raw=true)
 
 ## Installation
 1. Install `BepInEx`
